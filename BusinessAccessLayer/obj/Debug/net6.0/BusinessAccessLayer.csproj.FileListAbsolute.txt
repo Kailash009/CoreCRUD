@@ -1,0 +1,17 @@
+H:\NTierDemoCore\BusinessAccessLayer\bin\Debug\net6.0\BusinessAccessLayer.deps.json
+H:\NTierDemoCore\BusinessAccessLayer\bin\Debug\net6.0\BusinessAccessLayer.dll
+H:\NTierDemoCore\BusinessAccessLayer\bin\Debug\net6.0\BusinessAccessLayer.pdb
+H:\NTierDemoCore\BusinessAccessLayer\bin\Debug\net6.0\CommonLayer.dll
+H:\NTierDemoCore\BusinessAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+H:\NTierDemoCore\BusinessAccessLayer\bin\Debug\net6.0\CommonLayer.pdb
+H:\NTierDemoCore\BusinessAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+H:\NTierDemoCore\BusinessAccessLayer\obj\Debug\net6.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+H:\NTierDemoCore\BusinessAccessLayer\obj\Debug\net6.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+H:\NTierDemoCore\BusinessAccessLayer\obj\Debug\net6.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+H:\NTierDemoCore\BusinessAccessLayer\obj\Debug\net6.0\BusinessAccessLayer.AssemblyInfo.cs
+H:\NTierDemoCore\BusinessAccessLayer\obj\Debug\net6.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+H:\NTierDemoCore\BusinessAccessLayer\obj\Debug\net6.0\BusinessAccessLayer.csproj.CopyComplete
+H:\NTierDemoCore\BusinessAccessLayer\obj\Debug\net6.0\BusinessAccessLayer.dll
+H:\NTierDemoCore\BusinessAccessLayer\obj\Debug\net6.0\refint\BusinessAccessLayer.dll
+H:\NTierDemoCore\BusinessAccessLayer\obj\Debug\net6.0\BusinessAccessLayer.pdb
+H:\NTierDemoCore\BusinessAccessLayer\obj\Debug\net6.0\ref\BusinessAccessLayer.dll

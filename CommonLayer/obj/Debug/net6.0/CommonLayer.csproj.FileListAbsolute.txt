@@ -1,0 +1,12 @@
+H:\NTierDemoCore\CommonLayer\bin\Debug\net6.0\CommonLayer.deps.json
+H:\NTierDemoCore\CommonLayer\bin\Debug\net6.0\CommonLayer.dll
+H:\NTierDemoCore\CommonLayer\bin\Debug\net6.0\CommonLayer.pdb
+H:\NTierDemoCore\CommonLayer\obj\Debug\net6.0\CommonLayer.csproj.AssemblyReference.cache
+H:\NTierDemoCore\CommonLayer\obj\Debug\net6.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+H:\NTierDemoCore\CommonLayer\obj\Debug\net6.0\CommonLayer.AssemblyInfoInputs.cache
+H:\NTierDemoCore\CommonLayer\obj\Debug\net6.0\CommonLayer.AssemblyInfo.cs
+H:\NTierDemoCore\CommonLayer\obj\Debug\net6.0\CommonLayer.csproj.CoreCompileInputs.cache
+H:\NTierDemoCore\CommonLayer\obj\Debug\net6.0\CommonLayer.dll
+H:\NTierDemoCore\CommonLayer\obj\Debug\net6.0\refint\CommonLayer.dll
+H:\NTierDemoCore\CommonLayer\obj\Debug\net6.0\CommonLayer.pdb
+H:\NTierDemoCore\CommonLayer\obj\Debug\net6.0\ref\CommonLayer.dll

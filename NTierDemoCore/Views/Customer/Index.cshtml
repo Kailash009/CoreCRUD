@@ -1,0 +1,36 @@
+﻿@model IEnumerable<CommonLayer.Models.Customer>
+
+@Html.Raw(TempData["insert"])
+@Html.Raw(TempData["update"])
+@Html.Raw(TempData["delete"])
+
+<h1 class="bg-dark text-white text-center">SHOW ALL CUSTOMER</h1>
+<a asp-action="Create" asp-controller="Customer" class="btn btn-primary">Add New Customer</a>
+
+<table class="table table-bordered bg-info mt-3" >
+    <tr>
+        <th>CID</th>
+        <th>NAME</th>
+        <th>AGE</th>
+        <th>City</th>
+        <th>SALARY</th>
+        <th>IMAGE</th>
+        <th colspan="2" class="text-center">ACTION</th>
+    </tr>
+    @foreach(var cust in Model)
+    {
+    <tr>
+        <td>@cust.Cid</td>
+        <td>@cust.CName</td>
+        <td>@cust.CAge</td>
+        <td>@cust.City</td>
+        <td>@cust.CSalary</td>
+            <td><img src="@("cust_image/"+cust.custImg)" alt="img" width="200px" height="200px" /></td>
+        <td align="center">
+            <a asp-action="Edit" asp-route-id="@cust.Cid" class="btn btn-warning" asp-controller="Customer">EDIT</a>
+            |<a asp-action="Details" asp-route-id="@cust.Cid" class="btn btn-dark" asp-controller="Customer">DETAILS</a>
+        </td>
+        <td align="center"><a asp-action="Delete" asp-route-id="@cust.Cid" class="btn btn-danger" asp-controller="Customer" onclick="return confirm('Are you Sure you want to Delete(Y/N)?');">DELETE</a> </td>
+    </tr>
+    }
+</table>

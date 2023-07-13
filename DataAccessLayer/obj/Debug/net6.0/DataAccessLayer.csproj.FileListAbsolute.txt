@@ -1,0 +1,15 @@
+H:\NTierDemoCore\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+H:\NTierDemoCore\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+H:\NTierDemoCore\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+H:\NTierDemoCore\DataAccessLayer\bin\Debug\net6.0\CommonLayer.dll
+H:\NTierDemoCore\DataAccessLayer\bin\Debug\net6.0\CommonLayer.pdb
+H:\NTierDemoCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+H:\NTierDemoCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+H:\NTierDemoCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+H:\NTierDemoCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+H:\NTierDemoCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+H:\NTierDemoCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+H:\NTierDemoCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+H:\NTierDemoCore\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+H:\NTierDemoCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+H:\NTierDemoCore\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

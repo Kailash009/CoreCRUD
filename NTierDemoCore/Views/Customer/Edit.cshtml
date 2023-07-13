@@ -1,0 +1,56 @@
+﻿@model CommonLayer.Models.Customer
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Customer</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                @*<label asp-for="Cid" class="control-label"></label>*@
+                <input asp-for="Cid" type="hidden" class="form-control" />
+                @*<span asp-validation-for="Cid" class="text-danger"></span>*@
+            </div>
+            <div class="form-group">
+                <label asp-for="CName" class="control-label"></label>
+                <input asp-for="CName" class="form-control" />
+                <span asp-validation-for="CName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CAge" class="control-label"></label>
+                <input asp-for="CAge" class="form-control" />
+                <span asp-validation-for="CAge" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="City" class="control-label"></label>
+                <input asp-for="City" class="form-control" />
+                <span asp-validation-for="City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CSalary" class="control-label"></label>
+                <input asp-for="CSalary" class="form-control" />
+                <span asp-validation-for="CSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="cust_img_File" class="control-label"></label>
+                <input type="file" asp-for="cust_img_File" class="form-control" />
+                <span asp-validation-for="cust_img_File" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Edit" class="btn btn-warning" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
